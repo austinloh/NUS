@@ -1,7 +1,9 @@
 # Application of machine learning models to detect fraudulent energy use
 
 ## Description
-Workflow of process
+This projects aims to find the best machine learning model to predict fraudulent energy use in a supervised classification problem.
+
+Overall Workflow
 ![Workflow for process](https://github.com/austinloh/NUS/blob/main/IT1244/Project/Workflow.png)
 
 ## Getting Started
@@ -24,5 +26,6 @@ Ensure [clients dataset](https://github.com/austinloh/NUS/blob/main/IT1244/Proje
 * Run each cell block in the notebook sequentially 
 
 ### Authors
-IT1244 Group 19
+IT1244 Group 19 
+
 Austin Loh, Celine Liew, Darryl Chan, Lydia Tan
