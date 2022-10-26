@@ -25,7 +25,7 @@ Ensure [clients dataset](https://github.com/austinloh/NUS/blob/main/IT1244/Proje
 * Running locally is recommended as it is much faster
 * Run each cell block in the notebook sequentially 
 
-### Authors
+## Authors
 IT1244 Group 19 
 
 Austin Loh, Celine Liew, Darryl Chan, Lydia Tan
