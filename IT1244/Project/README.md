@@ -18,7 +18,7 @@ Below are the versions of libraries that were used. Different versions may still
 * tensorflow      2.9.2
 
 ### Setup
-Ensure [clients dataset](https://github.com/austinloh/NUS/blob/main/IT1244/Project/client.csv) (client.csv) and [invoices datset](https://github.com/austinloh/NUS/blob/main/IT1244/Project/invoice.csv) (invoice.csv) are located in the same directory as the [main code file](https://github.com/austinloh/NUS/blob/main/IT1244/Project/IT1244_Project.ipynb) (IT1244_Project.ipynb)
+Ensure [clients dataset](https://github.com/austinloh/NUS/blob/main/IT1244/Project/client.csv) (client.csv) and [invoices dataset](https://github.com/austinloh/NUS/blob/main/IT1244/Project/invoice.csv) (invoice.csv) are located in the same directory as the [main code file](https://github.com/austinloh/NUS/blob/main/IT1244/Project/IT1244_Project.ipynb) (IT1244_Project.ipynb)
 
 ### Running the Project
 * Open the [main code file](https://github.com/austinloh/NUS/blob/main/IT1244/Project/IT1244_Project.ipynb) either in jupyter notebook (to run locally) or upload to google colab (to run on cloud). 
