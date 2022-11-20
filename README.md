@@ -1,2 +1,2 @@
 # NUS notes
-[MA2311](NUS/MA2311)
+[MA2311](/MA2311)
