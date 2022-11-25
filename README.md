@@ -10,3 +10,4 @@
  [MA2002](/MA2002) | Calculus | AY2021/22 Sem 1
  [MA2311](/MA2311) | Techniques in Advanced Calculus | AY2022/23 Sem 1 
  [ST2131](/ST2131) | Probability | AY2021/22 Sem 2
+ [ST3131](/ST2131) | Regression Analysis | AY2022/23 Sem 1
