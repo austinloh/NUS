@@ -10,6 +10,7 @@
  [DSA2102](/DSA2102) | Essential Data Analytics Tools: Numerical Computation | AY2021/22 Sem 2
  [DSA3101](/DSA3101) | Data Science in Practice | AY2022/23 Sem 2
  [DSA3102](/DSA3102) | Essential Data Analytics Tools: Convex Optimisation | AY2022/23 Sem 2
+ [DSA3310](/UPIP) | FOS Undergraduate Professional Internship Programme 2ST | AY2022/23 ST I/II
  [HSI2013](/HSI2013) | The Science of Music | AY2022/23 Sem 2
  [IT1244](/IT1244) | Artificial Intelligence: Technology and Impact | AY2022/23 Sem 1 
  [MA2001](/MA2001) | Linear Algebra I | AY2021/22 Sem 1
