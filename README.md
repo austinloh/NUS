@@ -8,6 +8,10 @@
  [CS3223](/CS3223) | Database Systems Implementation | AY2023/24 Sem 2
  [CS3244](/CS3244) | Machine Learning | AY2022/23 Sem 2
  [CS4225](/CS4225) | Big Data Systems for Data Science | AY2023/24 Sem 1
+ [CS5228](/CS5228) | Knowledge Discovery and Data Mining | AY2025/26 Sem 1 
+ [CS5284](/CS5284) | Graph Machine Learning | AY2025/26 Sem 1 
+ [CS5340](/CS5340) | Uncertainty Modelling in AI | AY2025/26 Sem 1 
+ [CS5562](/CS5562) | Trustworthy Machine Learning | AY2025/26 Sem 1  
  [DSA1101](/DSA1101) | Introduction to Data Science | AY2021/22 Sem 1
  [DSA2101](/DSA2101) | Essential Data Analytics Tools: Data Visualisation | AY2022/23 Sem 1 
  [DSA2102](/DSA2102) | Essential Data Analytics Tools: Numerical Computation | AY2021/22 Sem 2
